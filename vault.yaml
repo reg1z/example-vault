@@ -1,3 +1,10 @@
 name: demo-vault
-version: 1.0
-description: A demonstration vault showcasing artifactr capabilities
+tools:
+  cursor:
+    aliases: [cur]
+    skills: .cursor/skills
+    commands: .cursor/commands
+    agents: .cursor/agents
+    global_skills: $HOME/.cursor/skills
+    global_commands: $HOME/.cursor/commands
+    global_agents: $HOME/.cursor/agents

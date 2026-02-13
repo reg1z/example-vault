@@ -1,6 +1,8 @@
 ---
-name: deploy-prod
 description: Deploy application to production environment
+tags: [deployment, production, ci-cd]
+category: DevOps
+disable-model-invocation: true
 ---
 
 # Production Deployment Command

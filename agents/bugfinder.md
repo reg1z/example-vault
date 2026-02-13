@@ -2,7 +2,9 @@
 name: bugfinder
 description: Analyzes code for potential bugs and logical errors
 model: claude-opus-4-6
-version: 1.0
+tags: [debugging, static-analysis, code-quality]
+category: Analysis
+allowed-tools: Read, Glob, Grep
 ---
 
 # BugFinder Agent

@@ -1,3 +1,12 @@
+---
+name: code-reviewer
+description: Reviews code changes, identifies issues, and suggests improvements
+tags: [code-quality, review, best-practices]
+category: Development
+user-invocable: true
+argument-hint: "<file or diff to review>"
+---
+
 # Code Reviewer Skill
 
 ## Overview

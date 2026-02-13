@@ -1,3 +1,13 @@
+---
+name: test-generator
+description: Generates comprehensive test suites covering unit tests, integration tests, and edge cases
+tags: [testing, unit-tests, code-quality]
+category: Testing
+user-invocable: true
+allowed-tools: Bash, Read, Write, Edit, Glob, Grep
+argument-hint: "<function or module to test>"
+---
+
 # Test Generator Skill
 
 ## Overview

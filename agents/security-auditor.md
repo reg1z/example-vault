@@ -2,7 +2,9 @@
 name: security-auditor
 description: Audits code for security vulnerabilities and best practices
 model: claude-opus-4-6
-version: 1.0
+tags: [security, vulnerabilities, owasp]
+category: Security
+allowed-tools: Read, Glob, Grep
 ---
 
 # Security Auditor Agent

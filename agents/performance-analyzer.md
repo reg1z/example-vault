@@ -2,7 +2,9 @@
 name: performance-analyzer
 description: Analyzes code and systems for performance issues and optimization opportunities
 model: claude-opus-4-6
-version: 1.0
+tags: [performance, optimization, profiling]
+category: Analysis
+allowed-tools: Read, Bash, Glob, Grep
 ---
 
 # Performance Analyzer Agent

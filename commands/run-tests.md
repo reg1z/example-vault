@@ -1,6 +1,7 @@
 ---
-name: run-tests
 description: Run the test suite and generate coverage reports
+tags: [testing, ci-cd, coverage]
+category: Testing
 ---
 
 # Test Execution Command

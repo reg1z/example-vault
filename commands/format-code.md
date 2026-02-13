@@ -1,6 +1,7 @@
 ---
-name: format-code
 description: Format codebase according to project style guide
+tags: [formatting, linting, code-style]
+category: Development
 ---
 
 # Code Formatting Command

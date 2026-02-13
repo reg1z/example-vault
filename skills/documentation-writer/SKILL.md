@@ -1,3 +1,13 @@
+---
+name: documentation-writer
+description: Generates clear, comprehensive documentation for code, APIs, and projects
+tags: [documentation, writing, api-docs]
+category: Documentation
+user-invocable: true
+disable-model-invocation: false
+argument-hint: "<code or module to document>"
+---
+
 # Documentation Writer Skill
 
 ## Overview
